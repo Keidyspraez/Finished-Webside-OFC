@@ -1,0 +1,27 @@
+html{
+align-items: center;
+  display: flex;
+}
+h2{
+  color: #99daea;
+}
+.Titulo{
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+body{
+ 
+  justify-content:center;
+  background-color:black;
+  color: white;
+  border: #8bdbee;
+ }
+.Titulo{
+  border: black;
+  color:#000000; 
+  background-color:#acddfb;
+}
+img{
+
+}
